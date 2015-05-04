@@ -1,0 +1,36 @@
+/* CSS Document */
+
+div {width: 800px;
+    padding: 0px;
+    border: 1px solid navy;
+    margin: 0px;
+ background-color: #A0A0A0;}
+
+#bing1 {text-overflow: ellipsis;
+word-wrap: break-word;
+height:200px;
+top: 200; }
+
+#bing2 {
+height:200px; 
+margin-top: 10px;}
+
+body { }
+
+h1 { text-align: center;
+          color: #FFFBAF; font-size:24px;}
+h2 { text-align: center;
+          color: #FFFBAF; font-size:18px;}
+nav {}
+ul {text-align: center; color: #A0A0A0; font-size: 22px}
+
+a {color: white; font-size:14px;}
+a.current {font-size: 16px}
+a.current1 {background-color: #C0C0C0;font-size: 16px}
+a.current2 {color: black;}
+a.und {text-decoration: uderlined;font-size: 16px}
+
+li   {font-size: 20;font-weight: bold;}
+
+
+

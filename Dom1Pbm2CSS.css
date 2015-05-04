@@ -1,0 +1,19 @@
+/* CSS Dom1Pbm2 */
+
+table {background-color: grey;}
+table {width: 40%;border: 1px solid white;}
+
+body {font-family: Arial;font-size: 14px; font-weight: bold;}
+
+tr.wi {font-family: Arial; color: white; background-color: green;}
+
+tr.re {font-family: Arial; background-color: #D7D4A6;}
+
+tr.gr {font-family: Arial; background-color: white;}
+
+<table id="noms">
+
+</head>
+<body>
+
+

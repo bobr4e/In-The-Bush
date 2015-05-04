@@ -1,0 +1,30 @@
+/* CSS Doc 2 */
+
+table {background-color: #656532;}
+body {font-family: arial;font-size: 11px; color: white;}
+
+th.gr {font-size: 16px; color: #ADADAD;
+padding-top: 8px; padding-bottom: 2px;}
+
+td.re {font-family: Arial; color: red;}
+
+td.ye {font-family: Arial; color: yellow;
+padding-top: 5px; padding-bottom: 5px;}
+
+td.or {font-family: Arial; color: orange;
+padding-top: 5px; padding-bottom: 5px;}
+
+td.gr {font-family: Arial;color: #ADADAD;
+padding-top: 5px; padding-bottom: 5px;}
+
+td.wi {font-family: Arial;font-style: italic;color: white;
+padding-top: 5px; padding-bottom: 5px;}
+
+td.bu {font-family: Arial; font-size: 11px; color: yellow;}
+td.bu em {font-family: Arial;  font-size: 28px;color: #47B855;}
+
+<table id="ticket">
+</head>
+<body>
+
+
